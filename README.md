@@ -2,8 +2,7 @@
 ## Raspberry Pi Weather Station
 
 ### Installation
-Follow the guides and tutorials at https://github.com/raspberrypilearning/weather_station_guide (published at www.raspberrypi.org/weather-station)
+This project follows the guides and turorials at https://projects.raspberrypi.org/en/projects/build-your-own-weather-station/
 
 ### Version
-This repo contains the updated version of the software, re-engineered for the Stretch version of Raspbian. If you are an existing Weather Station owner and are using a Pi running the Jessie version of Raspbian, then this code will not work without modification. You should flash your SD card with the latest Raspbian image and perform a fresh install of this software (you may wish to take a copy of your local MYSQL database first).
-
+This repo contains my versions of the BYO Weather Station following the above guide.  
